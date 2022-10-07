@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Aula 16 - Servlet Palimdromo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Aula 16 - Servlet Palimdromo</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Aula16-ServletPalimdromo-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Aula 16 - Servlet Palimdromo:war exploded" />
+    </root>
+  </artifact>
+</component>
